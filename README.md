@@ -1,32 +1,43 @@
-# data-analytics-portfolio
 # Data Analytics Portfolio – Shaik Mohammad Ghouse
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-yellow)
+![ML](https://img.shields.io/badge/ML-scikit--learn-brightgreen)
 
-This repository provides an overview of my data analytics and machine learning projects
-built using real-world datasets.
 
-## Projects
+This repository contains an overview of my end-to-end analytics and machine learning projects built using real datasets.  
+Each project link below goes to a full repository with code and supporting analysis.
+
+## 📌 Projects Overview
 
 ### Netflix Data Analysis
-- Classification using Logistic Regression
+- Classification of Netflix content using logistic regression
 - Dataset: 1,861 records
-- Accuracy: 71%
+- Accuracy: **71%**
 - Repo: https://github.com/SHAIKGHOUSE6/Netflix-Data-Analysis
 
 ### E-Commerce Sales Analysis
-- KPI analysis and Random Forest Regression
-- Dataset: 2,000 transactions
-- R² Score: 0.99
+- KPI exploration + regression modeling
+- Dataset: 2,000 transaction records
+- R² Score: **0.99**
 - Repo: https://github.com/SHAIKGHOUSE6/E-commerce-Analysis
 
 ### Product Price & Performance Analysis
-- Feature importance and pricing insights
-- Dataset: 1,275 products, 23 features
-- R² Score: 0.90
+- Pricing insights using Random Forest regression
+- Dataset: 1,275 product records
+- R² Score: **0.90**
 - Repo: https://github.com/SHAIKGHOUSE6/Product-Analysis-with-ML
 
-## Tools & Skills
-Python, SQL, Pandas, NumPy, Scikit-Learn, Power BI
+## 🛠 Tools & Skills
+- Python (pandas, NumPy, scikit-learn)
+- SQL (PostgreSQL)
+- Power BI
+- Data cleaning, EDA, KPI computation, classification & regression models
 
-## Contact
-LinkedIn: https://www.linkedin.com/in/shaik-mohammad-ghouse-4a8835327  
+## 📈 Highlights
+- Exploratory Data Analysis (EDA) with actionable business insights
+- ML models with clear evaluation metrics
+- Feature importance and trend analysis
+
+## 📫 Contact
+LinkedIn: https://www.linkedin.com/in/shaik-mohammad-ghouse-4a8835327/  
 GitHub: https://github.com/SHAIKGHOUSE6
