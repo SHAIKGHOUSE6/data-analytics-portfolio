@@ -27,11 +27,11 @@ Each project link below goes to a full repository with code and supporting analy
 - R² Score: **0.90**
 - Repo: https://github.com/SHAIKGHOUSE6/Product-Analysis-with-ML
 
-###Stock Price & Market Performance Analysis
--identify key factors influencing stock and build a random forest
--Dataset: 4,464 stocks records
--R² Score: **~ 0.88-0.92**
--Repo: 
+### Stock Price & Market Performance Analysis
+- 
+- Dataset: 4,464 stocks records
+- R² Score: **~ 0.88-0.92**
+- Repo: 
 
 ## 🛠 Tools & Skills
 - Python (pandas, NumPy, scikit-learn)
