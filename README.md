@@ -30,7 +30,7 @@ Each project link below goes to a full repository with code and supporting analy
 ### Stock Price & Market Performance Analysis
 - Stocks forecast by using Linear Regression
 - Dataset: 4,464 stocks records
-- R² Score: **~ 0.88-0.92**
+- R² Score: **0.88-0.92**
 - Repo: https://github.com/SHAIKGHOUSE6/Stock-Price-Market-Performance-Analysis
 
 ## 🛠 Tools & Skills
